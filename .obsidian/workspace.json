@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "906f7bae35190349",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba6f75e1bc7e0579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "460f3d7b9e1b4a3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1392c2594887a3a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9a29fccc6e84d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bcadb24cd9db6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "873ee420bf03f7a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1456947f3840df33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdfec29504a1c15a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6e1c7168705e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6fba79699669bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Tools & plugins/stack-templates/fullstack-next-app.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for fullstack-next-app"
+            }
+          },
+          {
+            "id": "7d5ac46d139a8e70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Tools & plugins/stack-templates/fullstack-next-app.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from fullstack-next-app"
+            }
+          },
+          {
+            "id": "e4cd0f0210055afc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d9e5d1e3c6589c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Tools & plugins/stack-templates/fullstack-next-app.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of fullstack-next-app"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "460f3d7b9e1b4a3a",
+  "lastOpenFiles": [
+    "07 - UI Systems.md/07 - UI Systems.md",
+    "03 - Tools & plugins/stack-templates/fullstack-next-app.md",
+    "03 - Tools & plugins/Infrastructure & Scaling/Redis.md",
+    "03 - Tools & plugins/stack-templates",
+    "03 - Tools & plugins 1/UI - Design Systems/Vitest.md",
+    "03 - Tools & plugins 1/UI - Design Systems/Storybook.md",
+    "03 - Tools & plugins 1/UI - Design Systems/TailwindCSS.md",
+    "03 - Tools & plugins 1/UI - Design Systems/ReactTestingLibrary.md",
+    "03 - Tools & plugins 1/UI - Design Systems/Playwright.md",
+    "03 - Tools & plugins 1/UI - Design Systems/Figma.md",
+    "03 - Tools & plugins 1/UI - Design Systems/Cypress.md",
+    "03 - Tools & plugins 1/Testing Frameworks/Jest.md",
+    "03 - Tools & plugins 1/Infrastructure & Scaling/Redis.md",
+    "03 - Tools & plugins 1/Infrastructure & Scaling/MessageQueues.md",
+    "03 - Tools & plugins 1/Infrastructure & Scaling/Cloudflare-CDN.md",
+    "03 - Tools & plugins 1/DevOps & Deployment/Husky.md",
+    "03 - Tools & plugins 1/DevOps & Deployment/GitHubActions.md",
+    "03 - Tools & plugins 1/DevOps & Deployment/Docker.md",
+    "03 - Tools & plugins 1/Code Editors/VSCode-Extensions.md.md",
+    "03 - Tools & plugins 1/Code Editors/Prettier+ESLint.md",
+    "03 - Tools & plugins 1/Code Editors/Headwind.md.md",
+    "03 - Tools & plugins 1/Backend Frameworks/Fastify.md",
+    "03 - Tools & plugins 1/Backend Frameworks/Express.md",
+    "03 - Tools & plugins 1/Backend Frameworks/Django.md",
+    "03 - Tools & plugins 1/Databases & ORM/Supabase.md",
+    "03 - Tools & plugins 1/Databases & ORM/SQLite.md",
+    "03 - Tools & plugins 1/Databases & ORM/Prisma 1.md",
+    "03 - Tools & plugins 1/UI - Design Systems",
+    "03 - Tools & plugins 1/Testing Frameworks",
+    "03 - Tools & plugins 1/Infrastructure & Scaling",
+    "03 - Tools & plugins 1/DevOps & Deployment",
+    "03 - Tools & plugins 1/Code Editors",
+    "03 - Tools & plugins 1/Backend Frameworks",
+    "03 - Tools & plugins 1/Databases & ORM",
+    "03 - Tools & plugins 1/API Architectures",
+    "03 - Tools & plugins 1/Auth Systems"
+  ]
+}
